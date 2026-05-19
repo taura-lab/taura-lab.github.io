@@ -4,7 +4,7 @@ title: Emails forwarding to Gmail got significantly delayed, and here is what ha
 nav_exclude: true
 ---
 
-{% include lang_switcher.html active_lang="ja" %}
+{% include lang_switcher.html active_lang="en" %}
 
 # Emails forwarding to Gmail got significantly delayed, and here is what happened (and is still happening)
 

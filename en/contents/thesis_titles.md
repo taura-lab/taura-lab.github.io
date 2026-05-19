@@ -4,9 +4,9 @@ title: Thesis Titles
 nav_exclude: true
 ---
 
-{% include lang_switcher.html active_lang="ja" %}
+{% include lang_switcher.html active_lang="en" %}
 
-# 最近の学位論文
+# Recent Thesis
 
 ## 2025
 

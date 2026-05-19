@@ -1,64 +1,72 @@
 ongoing:
   - title: "Task parallelism on GPU"
-    url: "research/gpu_task_parallelism"
+    title_ja: "GPU におけるタスク並列処理系"
+    url: "/contents/research/gpu_task_parallelism"
     tags: ["HPC", "GPU", "parallelism", "performance-optimization"]
     researchers:
-      - name: "Yuki MAEDA"
+      - name: "Yuki Maeda"
   - title: "Flexible and Efficient GPU-ready PGAS Runtime System"
-    url: "research/gpu_pgas_runtime"
+    title_ja: "効率的で高生産性な GPU 向け PGAS ランタイム"
+    url: "/contents/research/gpu_pgas_runtime"
     tags: ["HPC", "GPU", "programming-language", "parallel"]
     researchers:
       - name: "Sosuke Hosokawa"
   - title: "Analysis on Cerebras Wafer Scale Engine through Cross-entropy loss function"
-    url: "research/cerebras_project"
+    title_ja: "LLM 向け AI アクセラレータ Cerebras における最適化手法の実証"
+    url: "/contents/research/cerebras_project"
     tags: ["HPC", "AI-hardware", "performance-optimization"]
     researchers:
-      - name: "Yuri TAKIGAWA"
+      - name: "Yuri Takigawa"
   - title: "Memory Optimization and Performance Acceleration in CPU–GPU Co-Coupled Architecture"
-    url: "research/co_coupled_hardware"
+    title_ja: "CPU-GPU 統合アーキテクチャにおけるメモリ効率化と高速化"
+    url: "/contents/research/co_coupled_hardware"
     tags: ["HPC", "GPU", "memory-management", "Pytorch"]
     researchers:
-      - name: "Junichiro TAKAHASHI"
+      - name: "Junichiro Takahashi"
   - title: "Mechanistic Interpretability"
-    url: "research/mechanistic_interpretability"
+    title_ja: "機械論的解釈可能性"
+    url: "/contents/research/mechanistic_interpretability"
     tags: ["deep-learning", "interpretability"]
     researchers: 
-      - name: "Yoshihiro IZAWA"
+      - name: "Yoshihiro Izawa"
   - title: "Next POI prediction"
-    url: "research/next_POI_prediction"
+    title_ja: "次訪問 POI 予測"
+    url: "/contents/research/next_POI_prediction"
     tags: ["ML", "spatial-temporal", "data-mining"]
     researchers:
-      - name: "Xiaohang XU"
+      - name: "Xiaohang Xu"
   - title: "Time-series forecasting"
-    url: "research/time-series-forecasting"
+    title_ja: "時系列予測"
+    url: "/contents/research/time-series-forecasting"
     tags: ["ML", "spatial-temporal", "data-mining"]
     researchers:
-      - name: "Haotian GAO and Zheng DONG"
+      - name: "Haotian Gao and Zheng Dong"
   - title: "Performance analysis and acceleration methods for Kolmogorov–Arnold Networks"
-    url: "research/performance_analysis_and_acceleration_methods_for_KAN"
+    title_ja: "Kolmogorov–Arnold ネットワークの性能解析と高速化手法"
+    url: "/contents/research/performance_analysis_and_acceleration_methods_for_KAN"
     tags: ["deep-learning", "interpretability", "performance-optimization"]
     researchers:
-      - name: "Shuhao CUI"
-  
+      - name: "Shuhao Cui"
   - title: "Differential Privacy"
-    url: "research/differential_privacy"
+    title_ja: "差分プライバシー"
+    url: "/contents/research/differential_privacy"
     tags: ["ML", "privacy", "programming-language"]
     researchers:
       - name: "Naoto Goto"
 
 past:
   - title: "MassiveThreads: Super Lightweight Thread Library"
-    url: "research/massivethreads"
+    url: "/contents/research/massivethreads"
     tags: ["HPC", "threading", "parallel"]
   - title: "高性能なタスク並列スケジューラ"
-    url: "research/高性能なタスク並列スケジューラ"
+    url: "/contents/research/高性能なタスク並列スケジューラ"
     tags: ["HPC", "scheduling", "parallel"]
   - title: "分散共有メモリ"
-    url: "research/分散共有メモリ"
+    url: "/contents/research/分散共有メモリ"
     tags: ["HPC", "distributed", "memory"]
   - title: "大規模な文字列データ向けのアドホックな並列処理系"
-    url: "research/大規模な文字列データ向けのアドホックな並列処理系"
+    url: "/contents/research/大規模な文字列データ向けのアドホックな並列処理系"
     tags: ["HPC", "text-processing", "parallel"]
   - title: "Analysis of Large Mini-Batch Training of Neural Networks"
-    url: "research/analysis_of_large_mini-batch_training_of_neural_networks"
+    url: "/contents/research/analysis_of_large_mini-batch_training_of_neural_networks"
     tags: ["ML", "deep-learning", "optimization"]

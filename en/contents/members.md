@@ -4,11 +4,11 @@ title: Members
 nav_order: 2
 ---
 
-{% include lang_switcher.html active_lang="ja" %}
+{% include lang_switcher.html active_lang="en" %}
 
-# メンバー
+# Members
 
-メールアドレスは _account_ [at] eidos.ic.i.u-tokyo.ac.jp です．
+Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
@@ -31,6 +31,7 @@ nav_order: 2
 |Undergraduate Student|Kodai SATO|佐藤 滉大|ksato|:jp:|
 |Research Student|Mato Alejandro|マト アレハンドロ|couci|:andorra:|
 
-## 過去のメンバー
+## Past Members
 
-[Alumni](alumni) を参照してください．
+Please consult [Alumni](alumni).
+

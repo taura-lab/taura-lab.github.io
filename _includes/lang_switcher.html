@@ -1,0 +1,46 @@
+{% assign current_url = page.url | default: "/" %} {% assign current_url =
+current_url | replace: "index.html", "" | replace: ".html", "" %} {% if
+current_url == "" %} {% assign current_url = "/" %} {% endif %} {% if
+include.active_lang == "en" %} {% assign default_en_url = current_url %} {%
+assign default_ja_url = current_url | replace_first: "/en", "" %} {% if
+default_ja_url == "" %} {% assign default_ja_url = "/" %} {% endif %} {% else %}
+{% assign default_ja_url = current_url %} {% if current_url == "/" %} {% assign
+default_en_url = "/en/" %} {% else %} {% assign default_en_url = "/en" | append:
+current_url %} {% endif %} {% endif %} {% assign ja_url = include.ja_url |
+default: default_ja_url %} {% assign en_url = include.en_url | default:
+default_en_url %}
+<div style="text-align: right; margin-bottom: 0.8em">
+  <span
+    style="
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35em;
+      border: 1px solid #d0d7de;
+      border-radius: 8px;
+      padding: 0.1em 0.2em 0.1em 0.35em;
+      font-size: 0.88em;
+      line-height: 1;
+    "
+  >
+    <span style="margin-right: 0.15em">{% include globe_icon.html %}</span>
+    {% if include.active_lang == "en" %}
+    <a
+      href="{{ ja_url }}"
+      style="padding: 0.3em 0.55em; text-decoration: none; background: #ffffff"
+      >JA</a
+    >
+    <span style="padding: 0.3em 0.55em; background: #eef3ff; font-weight: 700"
+      >EN</span
+    >
+    {% else %}
+    <span style="padding: 0.3em 0.55em; background: #eef3ff; font-weight: 700"
+      >JA</span
+    >
+    <a
+      href="{{ en_url }}"
+      style="padding: 0.3em 0.55em; text-decoration: none; background: #ffffff"
+      >EN</a
+    >
+    {% endif %}
+  </span>
+</div>

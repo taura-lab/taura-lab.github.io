@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Misc
-nav_order: 5
+nav_order: 6
 ---
+
+{% include lang_switcher.html active_lang="ja" %}
 
 # Misc
 
