@@ -10,6 +10,10 @@ nav_order: 4
 
 注: [田浦の Google Scholar ページ](https://scholar.google.co.jp/citations?hl=en&user=E7gtxhEAAAAJ&view_op=list_works&sortby=pubdate) には，以下に未掲載の最近の論文が含まれている場合があります．
 
+## 2026
+
+  *  Yoshihiro Izawa, Gouki Minegishi, Koshi Eguchi, Sosuke Hosokawa, Kenjiro Taura, "Steering at the Source: Style Modulation Heads for Robust Persona Control", ([google](https://www.google.com/search?q=Steering+at+the+Source%3A+Style+Modulation+Heads+for+Robust+Persona+Control&oq=Steering+at+the+Source%3A+Style+Modulation+Heads+for+Robust+Persona+Control&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPTIGCAMQRRg90gEHMzU1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)). In _Proceedings of the 43th International Conference on Machine Learning_, 2026.
+
 ## 2025 (*Corresponding Author)
 
   *  Yuan Zhao, Hualei Zhu, Tingyu Jiang, Shen Li, Xiaohang Xu* and Hao Henry Wang, "Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents", ([google](https://www.google.com/search?q=Co-EPG%3A+A+Framework+for+Co-Evolution+of+Planning+and+Grounding+in+Autonomous+GUI+Agents)). In _arXiv preprint arXiv:2511.10705_, 2025.

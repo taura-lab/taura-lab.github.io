@@ -54,6 +54,7 @@ nav_exclude: true
 
 ### 2026年
 
+- 2026 May. 1: 井澤慶広らが学士課程在籍時に執筆した論文 Steering at the Source: Style Modulation Heads for Robust Persona Control が [ICML2026](https://icml.cc/) 本会議に採択されました．
 - 2026 Mar. 25: 学士課程 井澤慶広が工学部長賞（研究）を受賞しました．また，学士課程 井澤慶広，瀧川雄理，前田優希が優秀卒業論文賞を受賞しました．
 - 2026 Mar. 1: 学士課程 井澤慶広の論文 Steering at the Source: Style Modulation Heads for Robust Persona Control が [ICLR 2026 workshop](https://representational-alignment.github.io/2026/) に採択されました．
 - 2026 Jan. 13: 研究員 徐小航の論文 MMTableBench: A Multi-level Multimodal Benchmark for Reasoning and Layout Complexity in Table QA が [WWW 2026](https://www2026.thewebconf.org/) に採択されました．
