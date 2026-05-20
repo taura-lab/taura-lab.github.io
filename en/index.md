@@ -50,8 +50,9 @@ Additionally, videos and documents used in past lab introductions can be accesse
 
 ### 2026
 
+- 2026 May. 1: A paper written by Yoshihiro Izawa et al. during his undergraduate studies, titled "Steering at the Source: Style Modulation Heads for Robust Persona Control," has been accepted to [ICML2026](https://icml.cc/).
 - 2026 Mar. 25: Yoshihiro Izawa, an undergraduate student, received the Deen's Award for Research. Additionally, undergraduate students Yoshihiro Izawa, Yuri Takigawa, and Yuki Maeda were awarded the Outstanding Graduation Thesis Award.
-- 2026 Mar. 1: A paper by undergraduate student Yoshihiro Izawa, titled Steering at the Source: Style Modulation Heads for Robust Persona Control, has been accepted to an [ICLR 2026 workshop](https://representational-alignment.github.io/2026/) .
+- 2026 Mar. 1: A paper by undergraduate student Yoshihiro Izawa, titled Steering at the Source: Style Modulation Heads for Robust Persona Control, has been accepted to an [ICLR 2026 workshop](https://representational-alignment.github.io/2026/).
 - 2026 Jan. 13: A paper by postdoc Xiaohang Xu, titled MMTableBench: A Multi-level Multimodal Benchmark for Reasoning and Layout Complexity in Table QA, has been accepted to the [WWW 2026](https://www2026.thewebconf.org/) .
 - 2026 Jan. 4: A paper by postdoc Xiaohang Xu, titled [JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community](https://arxiv.org/abs/2503.21679), has been accepted to the [EACL 2026](https://2026.eacl.org/) poster.
 
