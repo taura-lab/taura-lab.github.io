@@ -4,11 +4,13 @@ title: Papers
 nav_order: 4
 ---
 
-{% include lang_switcher.html active_lang="ja" %}
+{% include lang_switcher.html active_lang="en" %}
 
-# 論文
+# Papers
 
-注: [田浦の Google Scholar ページ](https://scholar.google.co.jp/citations?hl=en&user=E7gtxhEAAAAJ&view_op=list_works&sortby=pubdate) には，以下に未掲載の最近の論文が含まれている場合があります．
+note: [Taura's google scholar
+page](https://scholar.google.co.jp/citations?hl=en&user=E7gtxhEAAAAJ&view_op=list_works&sortby=pubdate)
+may have captured recent papers not listed below.
 
 ## 2026
 

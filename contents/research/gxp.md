@@ -4,10 +4,7 @@ title: GXP Parallel Shell/Scripting Tool
 nav_exclude: true
 ---
 
-# GXP Parallel Shell/Scripting Tool
-
-A parallel processing tool that enables parallel processing built on existing
-commands, no matter where you are and where your resources are.
+{% include lang_switcher.html active_lang="ja" %}
 
 # GXP並列シェル・スクリプティング環境
 

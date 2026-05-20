@@ -4,27 +4,27 @@ title: Code
 nav_order: 5
 ---
 
-# Code
+{% include lang_switcher.html active_lang="ja" %}
 
-As a research group working on system software, we have a great deal of
-interest in publishing open source software, both as a research output and for
-making everybody's research more efficient. We will be adding more in future.
+# コード
 
-## Research
+システムソフトウェアを研究するグループとして，私たちは研究成果としての公開に加え，研究全体の効率化に資するものとして，オープンソースソフトウェアの公開に強い関心を持っています．今後さらに追加していく予定です．
 
-  * [MassiveThreads](https://github.com/massivethreads/massivethreads) is a high performance multithreading library supporting millions of threads with Pthreads-compatible API. 
-  * [GXP](https://github.com/qnu/gxp/) is a parallel shell for clusters, supercomputers, and distributed systems, also supporting parallel/distributed make. 
-  * [sshfsmux](https://github.com/qnu/sshfsmux/) is a FUSE-based file system that allows a node to mount multiple hosts via ssh on the same mount point. 
-  * [paratrac](https://github.com/qnu/paratrac/) is a FUSE-based file system profiling tool.
-  * [Itoyori](https://github.com/itoyori/itoyori) is a distributed multi-threading runtime system for global-view fork-join task parallelism.
+## 研究
 
-## Small Tools
+  * [MassiveThreads](https://github.com/massivethreads/massivethreads) は，Pthreads 互換 API を備え，数百万スレッドを扱える高性能マルチスレッドライブラリです．
+  * [GXP](https://github.com/qnu/gxp/) は，クラスター，スーパーコンピュータ，分散システム向けの並列シェルで，並列／分散 make もサポートしています．
+  * [sshfsmux](https://github.com/qnu/sshfsmux/) は，1つのマウントポイント上で SSH 経由で複数ホストをマウントできる，FUSE ベースのファイルシステムです． 
+  * [paratrac](https://github.com/qnu/paratrac/) は，FUSE ベースのファイルシステムプロファイリングツールです．
+  * [Itoyori](https://github.com/itoyori/itoyori) は，グローバルビューの fork-join タスク並列性のための分散マルチスレッドランタイムシステムです．
 
-  * [textshot](https://github.com/taura/textshot) is a simple wrapper around jumpshot-4 (slog2) performance visualizer, supporting super simple text-based log format. 
-  * [cpulock](https://github.com/taura/cpulock) is a utility to run multiple processes (multithreaded or not), assigning a set of CPUs exclusively to each process. 
-  * [smart-gnuplotter](https://github.com/taura/smart_gnuplotter) is a python library to draw tons of gnuplot graphs easily; useful to automate producing tex papers/slides containing lots of graphs. 
-  * [MassiveLogger](https://github.com/massivethreads/massivelogger) is a lightweight logging library for multi-threading written in C; it comes with a dedicated viewer written in [bokeh](https://docs.bokeh.org/en/latest/index.html). 
+## 小規模ツール
 
-## Others
+  * [textshot](https://github.com/taura/textshot) は，jumpshot-4（slog2）性能可視化ツールのシンプルなラッパーで，非常に簡単なテキストベースのログ形式をサポートします．
+  * [cpulock](https://github.com/taura/cpulock) は，複数プロセス（マルチスレッドかどうかを問わない）を実行する際に，各プロセスへ CPU セットを排他的に割り当てるユーティリティです．
+  * [smart-gnuplotter](https://github.com/taura/smart_gnuplotter) は，大量の gnuplot グラフを簡単に描画するための Python ライブラリで，グラフの多い TeX 論文・スライドの自動生成に便利です．
+  * [MassiveLogger](https://github.com/massivethreads/massivelogger) は C で書かれたマルチスレッド向け軽量ロギングライブラリで，[bokeh](https://docs.bokeh.org/en/latest/index.html) 製の専用ビューアが付属します．
 
-  * [mdoch](https://github.com/qnu/mdoch/) is a work-in-progress to writing molecular dynamics simulations in Chapel programming language, which also helps evaluate Chapel itself. 
+## その他
+
+  * [mdoch](https://github.com/qnu/mdoch/) は，Chapel プログラミング言語で分子動力学シミュレーションを書くための進行中プロジェクトであり，Chapel 自体の評価にも役立っています．

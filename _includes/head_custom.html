@@ -4,3 +4,36 @@
   {% when "mathjax" %}
     {% include mathjax.html %}
 {% endcase %}
+
+{% if page.url contains '/en/' or page.url == '/en/index.html' %}
+<style>
+  .site-nav a[href="/contents/access.html"] { display: none !important; }
+  .site-nav a[href="/contents/members.html"] { display: none !important; }
+  .site-nav a[href="/contents/research.html"] { display: none !important; }
+  .site-nav a[href="/contents/papers.html"] { display: none !important; }
+  .site-nav a[href="/contents/code.html"] { display: none !important; }
+  .site-nav a[href="/contents/misc.html"] { display: none !important; }
+</style>
+{% else %}
+<style>
+  .site-nav a[href="/en/contents/access.html"] { display: none !important; }
+  .site-nav a[href="/en/contents/members.html"] { display: none !important; }
+  .site-nav a[href="/en/contents/research.html"] { display: none !important; }
+  .site-nav a[href="/en/contents/papers.html"] { display: none !important; }
+  .site-nav a[href="/en/contents/code.html"] { display: none !important; }
+  .site-nav a[href="/en/contents/misc.html"] { display: none !important; }
+</style>
+{% endif %}
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var path = window.location.pathname || "/";
+    var inEnglish = path === "/en/" || path === "/en" || path.indexOf("/en/") === 0;
+    if (!inEnglish) return;
+
+    var homeLink = document.querySelector(".site-title");
+    if (homeLink) {
+      homeLink.setAttribute("href", "/en/");
+    }
+  });
+</script>

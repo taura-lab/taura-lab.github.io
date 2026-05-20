@@ -4,7 +4,7 @@ title: Taura Laboratory's Alumni
 nav_exclude: true
 ---
 
-{% include lang_switcher.html active_lang="ja" %}
+{% include lang_switcher.html active_lang="en" %}
 
 # Taura Laboratory's Alumni
 
