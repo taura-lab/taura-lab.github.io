@@ -24,6 +24,7 @@ Additionally, videos and documents used in past lab introductions can be accesse
 <details markdown="1">
   <summary>Click to view past lab introduction materials</summary>
 
+- May. 2026: Admission information session [Research poster](/contents/files/intro_2026/poster-2026-working.pdf)
 - May. 2025: Admission information session [Research poster](/contents/files/intro_2025/poster-2025-working.pdf)
 - May. 2024: Admission information session [Research slides](/contents/files/intro_2024/souzou-slides-2024.pdf)
 - May. 2023: Admission information session [Research poster](/contents/files/intro_2023/poster-2023-working.pdf)

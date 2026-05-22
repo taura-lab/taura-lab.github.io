@@ -27,6 +27,7 @@ nav_exclude: true
 <details markdown="1">
   <summary>クリックして過去の研究室紹介資料を表示</summary>
 
+- 2026/5 入試説明会 [研究紹介ポスター](/contents/files/intro_2026/poster-2026-working.pdf)
 - 2025/5 入試説明会 [研究紹介ポスター](/contents/files/intro_2025/poster-2025-working.pdf)
 - 2024/5 入試説明会 [研究紹介スライド](/contents/files/intro_2024/souzou-slides-2024.pdf)
 - 2023/5 入試説明会 [研究紹介ポスター](/contents/files/intro_2023/poster-2023-working.pdf)
